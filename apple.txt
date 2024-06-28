@@ -1,3 +1,11 @@
-this is my second persons story
 
 this is completed
+=======
+This is my first edit 
+1
+2
+3
+3
+4
+
+>>>>>>> Stashed changes
