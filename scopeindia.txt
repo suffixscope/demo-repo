@@ -1,12 +1,22 @@
 vinod 
 raju
 saju
+<<<<<<< Updated upstream
 First project half portion completed
-
+this person is very good guy and he was a well know person
+so i am working on it
 
 
 I am working on the same project 
 
 with currently i am working on second person story
 
+=======
+First project half portion completeda
+added some more things in the project 
+
+a=1
+b=2
+x=a+b
+>>>>>>> Stashed changes
 
